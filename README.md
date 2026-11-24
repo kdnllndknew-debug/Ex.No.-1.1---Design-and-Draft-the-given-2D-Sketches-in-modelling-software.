@@ -41,15 +41,15 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 
 ## SKETCHS
+
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
 
 ## OUTPUT
 
 <img width="1496" height="1051" alt="Technical Bracket Drawing — HAYAS T I" src="https://github.com/user-attachments/assets/7dc22eef-5adf-4bed-9160-d22ef374c3ce" />
-<img width="768" height="707" alt="image" src="https://github.com/user-attachments/assets/1272893b-495b-4c27-b767-247ca8ad169f" />
 
-RESULT
-Thus the given sketch is drawn and drafted using fusion 360 tool.
+<img width="768" height="707" alt="image" src="https://github.com/user-attachments/assets/1272893b-495b-4c27-b767-247ca8ad169f" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
